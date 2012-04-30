@@ -12,4 +12,8 @@ stepper.on(function(step){
 });
 stepper.set(110);
 // console -> 100
+stepper.set(180);
+// no console output
+stepper.set(210);
+// console -> 200
 ```
