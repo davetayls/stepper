@@ -1,3 +1,9 @@
+/**
+ * Stepper
+ * =======
+ * A simple script to trigger events on number steps
+ * https://github.com/davetayls/stepper
+ */
 /*global window, define, require, exports:true */
 (function(global){
     'use strict';
